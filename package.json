@@ -35,7 +35,7 @@
     "nodemon": "^1.2.1",
     "standard": "*",
     "stylus": "^0.54.0",
-    "watchify": "^3.1.0"
+    "watchify": "^3.11.1"
   },
   "homepage": "https://instant.io",
   "keywords": [
